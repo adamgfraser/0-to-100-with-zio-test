@@ -1,0 +1,5 @@
+.bloop
+.metals
+project/.sbt
+project/metals.sbt
+target
